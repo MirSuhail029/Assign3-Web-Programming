@@ -1,2 +1,4 @@
 # Assign3-Web-Programming
-day 3 assignment Adding icons
+Lets Upgrade
+Assignment day 3 for Web Programming Webinar
+Add share icons with hover effect in portfolio
